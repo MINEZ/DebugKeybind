@@ -4,7 +4,7 @@ plugins {
 }
 
 base {
-    archivesName = "DebugKeybind-${project.name}-${version}"
+    archivesName = "DebugKeybind-${project.name}-${minecraft_version}"
 }
 
 java {

@@ -18,6 +18,8 @@ Don't like **F3+G**? It can be rebound in the exact same way.
 
 **Just open the debug keybinds menu, and you'll be on your way!**
 
+当前派生移除了按键配置按钮，以避免用户修改按键配置。
+
 ## How do I open the Debug Keybinds menu?
 Opening the menu is super simple. You can open it from your modloader's Config Screen, but it can also be opened with a conveniently placed button placed next to the normal keybinds button!
 <center>
